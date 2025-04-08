@@ -1,0 +1,278 @@
+Data present in this file : 
+#hello world
+#hello world
+#hello world
+#hello world
+#hello world
+
+--------------------------------
+Data present in this file : 
+1 hello world
+2 hello world
+3 hello world
+4 hello world
+5 hello world
+
+--------------------------------
+Data present in this file : 
+hello world
+hello world
+hello world
+hello world
+hello world
+
+--------------------------------
+Data present in this file : 
+dir day2\*   (or)   dir .\*  => based on the current directory you opened
+
+
+dir .\*.txt
+dir .\*.??
+dir .\d*
+
+etc
+--------------------------------
+Data present in this file : 
+hello world
+covasant company
+
+
+# creating a copy of a file 
+
+with open(path,"rt") as f:
+...     lines = f.readlines()
+...     with open(path+".bk","wt") as f2:
+...             f2.writelines(lines)
+--------------------------------
+Data present in this file : 
+
+--------------------------------
+Data present in this file : 
+#hello world
+#hello world
+#hello world
+#hello world
+#hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+1 hello world
+2 hello world
+3 hello world
+4 hello world
+5 hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+hello world
+hello world
+hello world
+hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+dir day2\*   (or)   dir .\*  => based on the current directory you opened
+
+
+dir .\*.txt
+dir .\*.??
+dir .\d*
+
+etc
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+covasant company
+
+
+# creating a copy of a file 
+
+with open(path,"rt") as f:
+...     lines = f.readlines()
+...     with open(path+".bk","wt") as f2:
+...             f2.writelines(lines)
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+#hello world
+#hello world
+#hello world
+#hello world
+#hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+1 hello world
+2 hello world
+3 hello world
+4 hello world
+5 hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+hello world
+hello world
+hello world
+hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+dir day2\*   (or)   dir .\*  => based on the current directory you opened
+
+
+dir .\*.txt
+dir .\*.??
+dir .\d*
+
+etc
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+covasant company
+
+
+# creating a copy of a file 
+
+with open(path,"rt") as f:
+...     lines = f.readlines()
+...     with open(path+".bk","wt") as f2:
+...             f2.writelines(lines)
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+
+--------------------------------
+Data present in this file : 
+#hello world
+#hello world
+#hello world
+#hello world
+#hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+1 hello world
+2 hello world
+3 hello world
+4 hello world
+5 hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+hello world
+hello world
+hello world
+hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+dir day2\*   (or)   dir .\*  => based on the current directory you opened
+
+
+dir .\*.txt
+dir .\*.??
+dir .\d*
+
+etc
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+covasant company
+
+
+# creating a copy of a file 
+
+with open(path,"rt") as f:
+...     lines = f.readlines()
+...     with open(path+".bk","wt") as f2:
+...             f2.writelines(lines)
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+#hello world
+#hello world
+#hello world
+#hello world
+#hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+1 hello world
+2 hello world
+3 hello world
+4 hello world
+5 hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+hello world
+hello world
+hello world
+hello world
+
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+dir day2\*   (or)   dir .\*  => based on the current directory you opened
+
+
+dir .\*.txt
+dir .\*.??
+dir .\d*
+
+etc
+--------------------------------
+
+--------------------------------
+Data present in this file : 
+hello world
+covasant company
+
+
+# creating a copy of a file 
+
+with open(path,"rt") as f:
+...     lines = f.readlines()
+...     with open(path+".bk","wt") as f2:
+...             f2.writelines(lines)
+--------------------------------
+
+--------------------------------
+
+--------------------------------
