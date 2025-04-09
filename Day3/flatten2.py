@@ -5,7 +5,6 @@ def flatten(l):
     for i in l:
         o = []
         if type(i) is list:
-            print('list')
             flatten(i)
         elif type(i) is str:
             o = []
@@ -14,7 +13,6 @@ def flatten(l):
             l.insert(index,o)
             l.remove(i)
         index+=1
-        print(l)
             
 flatten(l)
 print(l)
